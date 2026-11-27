@@ -1,0 +1,23 @@
+{
+  "source_link_occurrences": 18,
+  "unique_source_destinations": 17,
+  "anchors_including_unsubscribe": 19,
+  "all_source_links_match": true,
+  "assets": 26,
+  "all_assets_nonempty": true,
+  "html_bytes": 29895,
+  "javascript": false,
+  "browser": {
+    "desktop_viewport": 800,
+    "email_width": 600,
+    "mobile_widths": [
+      375,
+      320
+    ],
+    "horizontal_overflow": false,
+    "failed_image_elements": 0
+  },
+  "inbox_tested": false,
+  "public_media_urls_configured": false,
+  "pixel_exact": false
+}

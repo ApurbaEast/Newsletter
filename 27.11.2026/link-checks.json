@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://bitdelta.com/en/markets/spot/all",
+    "status": "unverified",
+    "detail": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "mailto:support@bitdelta.com",
+    "status": "syntax verified; email delivery not tested"
+  },
+  {
+    "url": "https://x.com/bitdelta",
+    "status": 200,
+    "final_url": "https://x.com/bitdelta"
+  },
+  {
+    "url": "https://t.me/BitDelta_Official",
+    "status": 200,
+    "final_url": "https://t.me/BitDelta_Official"
+  },
+  {
+    "url": "https://www.facebook.com/bitdelta/",
+    "status": 200,
+    "final_url": "https://www.facebook.com/bitdelta/"
+  },
+  {
+    "url": "https://www.instagram.com/bitdelta_com/",
+    "status": 200,
+    "final_url": "https://www.instagram.com/bitdelta_com/"
+  },
+  {
+    "url": "https://www.youtube.com/@Bitdelta",
+    "status": 200,
+    "final_url": "https://www.youtube.com/@Bitdelta"
+  },
+  {
+    "url": "https://www.linkedin.com/company/bitdelta/",
+    "status": "unverified",
+    "detail": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.coingecko.com/en/exchanges/bitdelta",
+    "status": "unverified",
+    "detail": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://coinmarketcap.com/exchanges/bitdelta/",
+    "status": 200,
+    "final_url": "https://coinmarketcap.com/exchanges/bitdelta/"
+  },
+  {
+    "url": "https://bitdelta.com/en",
+    "status": "unverified",
+    "detail": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://x.com/bitdelta/status/2125946163153281201/photo/1",
+    "status": 200,
+    "final_url": "https://x.com/bitdelta/status/2125946163153281201"
+  },
+  {
+    "url": "https://help.bitdelta.com/hc/en-us",
+    "status": "unverified",
+    "detail": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://bitdelta.com/en/trade/spot/tt-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=tt_token_listing&utm_content=cta_button",
+    "status": "unverified",
+    "detail": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://bitdelta.com/en/trade/spot/krl-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=krl_token_listing&utm_content=cta_button",
+    "status": "unverified",
+    "detail": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://bitdelta.com/en/trade/spot/orbs-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=orbs_token_listing&utm_content=cta_button",
+    "status": "unverified",
+    "detail": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://bitdelta.com/en/trade/spot/mtv-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=mtv_token_listing&utm_content=cta_button",
+    "status": "unverified",
+    "detail": "HTTP Error 429: Too Many Requests"
+  }
+]

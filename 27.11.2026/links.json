@@ -1,0 +1,246 @@
+[
+  {
+    "node": "132:44",
+    "name": "Frame 2147264506",
+    "position": [
+      348.5,
+      7430
+    ],
+    "size": {
+      "x": 486,
+      "y": 74
+    },
+    "url": "https://bitdelta.com/en/markets/spot/all",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:49",
+    "name": "Support email",
+    "url": "mailto:support@bitdelta.com",
+    "source": "Figma text hyperlink"
+  },
+  {
+    "node": "132:55",
+    "name": "Community Icon",
+    "position": [
+      728,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://x.com/bitdelta",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:57",
+    "name": "Community Icon",
+    "position": [
+      784,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://t.me/BitDelta_Official",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:59",
+    "name": "Community Icon",
+    "position": [
+      840,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://www.facebook.com/bitdelta/",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:61",
+    "name": "Community Icon",
+    "position": [
+      896,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://www.instagram.com/bitdelta_com/",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:63",
+    "name": "Community Icon",
+    "position": [
+      952,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://www.youtube.com/@Bitdelta",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:65",
+    "name": "Community Icon",
+    "position": [
+      1008,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://www.linkedin.com/company/bitdelta/",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:67",
+    "name": "Community Icon",
+    "position": [
+      1064,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://www.coingecko.com/en/exchanges/bitdelta",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:69",
+    "name": "Community Icon",
+    "position": [
+      1120,
+      7714
+    ],
+    "size": {
+      "x": 40,
+      "y": 40
+    },
+    "url": "https://coinmarketcap.com/exchanges/bitdelta/",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:71",
+    "name": "Group 2147264460",
+    "position": [
+      42.0,
+      7710
+    ],
+    "size": {
+      "x": 275.0013427734375,
+      "y": 47.23330307006836
+    },
+    "url": "https://bitdelta.com/en",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:135",
+    "name": "Group 2147264460",
+    "position": [
+      40.0,
+      40
+    ],
+    "size": {
+      "x": 274.9993896484375,
+      "y": 47.23330307006836
+    },
+    "url": "https://bitdelta.com/en",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:160",
+    "name": "Frame 2147264507",
+    "position": [
+      125,
+      6952
+    ],
+    "size": {
+      "x": 300,
+      "y": 74
+    },
+    "url": "https://x.com/bitdelta/status/2125946163153281201/photo/1",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "132:274",
+    "name": "Frame 2147264507",
+    "position": [
+      87,
+      5141
+    ],
+    "size": {
+      "x": 273,
+      "y": 74
+    },
+    "url": "https://help.bitdelta.com/hc/en-us",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "135:330",
+    "name": "Rectangle 161125200",
+    "position": [
+      262,
+      4768.97
+    ],
+    "size": {
+      "x": 177,
+      "y": 50.16393280029297
+    },
+    "url": "https://bitdelta.com/en/trade/spot/tt-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=tt_token_listing&utm_content=cta_button",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "135:336",
+    "name": "Rectangle 161125201",
+    "position": [
+      459,
+      4768.97
+    ],
+    "size": {
+      "x": 177,
+      "y": 50.16393280029297
+    },
+    "url": "https://bitdelta.com/en/trade/spot/krl-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=krl_token_listing&utm_content=cta_button",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "135:342",
+    "name": "Rectangle 161125202",
+    "position": [
+      656,
+      4768.97
+    ],
+    "size": {
+      "x": 177,
+      "y": 50.16393280029297
+    },
+    "url": "https://bitdelta.com/en/trade/spot/orbs-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=orbs_token_listing&utm_content=cta_button",
+    "source": "Figma prototype interaction"
+  },
+  {
+    "node": "135:348",
+    "name": "Rectangle 161125202",
+    "position": [
+      853,
+      4768.97
+    ],
+    "size": {
+      "x": 177,
+      "y": 50.16393280029297
+    },
+    "url": "https://bitdelta.com/en/trade/spot/mtv-usdt?utm_source=email&utm_medium=newsletter&utm_campaign=mtv_token_listing&utm_content=cta_button",
+    "source": "Figma prototype interaction"
+  }
+]
